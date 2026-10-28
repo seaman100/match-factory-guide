@@ -4,7 +4,7 @@ Level walkthroughs and strategy notes for Match Factory.
 
 ## Links
 
-- [Match Factory Guide](https://matchfactoryguide.com/)
+- [Match Factory guide](https://matchfactoryguide.com/)
 
 - [Main site](https://matchfactoryguide.com/)
 
