@@ -2,12 +2,12 @@
 
 Level walkthroughs and strategy notes for Match Factory.
 
-## Links
+The write-up is at [Match Factory tips](https://matchfactoryguide.com/tips) — it covers the part most people ask about.
 
-- [Match Factory guide](https://matchfactoryguide.com/)
+For the tool itself, start at [strategy guides and tutorials](https://matchfactoryguide.com/guides).
 
-- [Main site](https://matchfactoryguide.com/)
+Everything else: [Match Factory Guide](https://matchfactoryguide.com/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
